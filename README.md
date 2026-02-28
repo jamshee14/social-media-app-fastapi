@@ -15,7 +15,7 @@ A production-ready social media engine built for performance, security, and scal
 - **Object-Level Permissions:** Strict authorization logic ensuring users only modify their own content.
 - **Automated CI/CD:** Integrated GitHub Actions for automated testing and deployment readiness.
 - **Type-Safe Config:** Pydantic-based environment variable validation.
-
+This project represents my commitment to building production-grade software. I prioritized Security (JWT/Bcrypt), Reliability (Pytest/GitHub Actions), and Portability (Docker). By automating the image-push to Docker Hub, I've created a zero-touch deployment cycle that mirrors the workflows of high-scale engineering teams
 ## 🚦 Getting Started
 1. Clone the repo.
 2. Create a `.env` file based on the provided configuration.
